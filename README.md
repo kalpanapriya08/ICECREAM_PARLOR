@@ -126,13 +126,6 @@ Open a pull request.
 📜 License
 This project is licensed under the MIT License.
 
-For more information, check the LICENSE file.
 
-💬 Support
-If you encounter any issues, feel free to contact me via:
 
-GitHub: https://github.com/kalpanapriya08
-Email: [Your Email Address]
-Thank you for reviewing my project! 🚀
 
-This text provides clear sections for Overview, Features, Setup, Docker, Testing, Database Schema, and Contribution, and it ensures all guidelines and technical dependencies are easy to follow. Simply paste this content into your README.md file for submission. 🌟
